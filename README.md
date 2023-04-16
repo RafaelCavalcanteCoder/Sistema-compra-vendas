@@ -10,4 +10,8 @@ Ambos os tipos de compradores adquirirão o café diretamente do fornecedor, ape
 
 Para o desenvolvimento desse projeto, foram utilizados conceitos de programação orientada a objetos, bem como herança, polimorfismo e interface, metodos, atributos e classes e foi desenvolvido em 100% back-end Java. Minha ideia principal é oferecer aos clientes uma maneira fácil e acessível de adquirir café diretamente de um fornecedor confiável, através de uma empresa de sistemas de compras, com a vantagem de bonificações exclusivas para clientes. #java #desenvolvimento 
 
+Agradecimentos:
+https://github.com/LucasBrito162
+Quero deixar meu sincero agradecimento por ter tido a oportunidade de trabalhar junto com você neste projeto. Foi realmente um prazer poder colaborar e aprender ao mesmo tempo, especialmente com a ajuda do curso da Alura e seus excelentes instrutores Paulo Silveira e Jacqueline Oliveira. Sem dúvida, essa experiência enriqueceu muito meu conhecimento e habilidades, e estou grato por ter sido parte desse processo. Espero ter mais oportunidades de colaborar com você no futuro! 
+
 Atenciosamente, Rafael Cavalcante de Oliveira.
