@@ -1,17 +1,24 @@
-# VendasDeCafe
 
-Compartilhando com vocês a notícia do lançamento do meu Projeto de Fornecimento de Café, que tem como objetivo oferecer uma experiência única na compra de café para clientes tanto pessoas físicas quanto jurídicas. Nosso fornecedor disponibiliza diferentes tipos de café, incluindo cru, torrado e moído, que poderão ser adquiridos somente através de nosso sistema de compras, garantindo a segurança das transações comerciais, e onde cada empresa(referência a um OBJETO vai ter seu próprio estoque e seu proprio capital), e  a partir das transações o valores se alteram.
+# VendasDeCafe - Tutorial
 
-O estoque do fornecedor é composto por uma quantidade significativa de cada variedade de café, com valor unitário a cada 1kg. Em cada transação de compra realizada através de nosso sistema de compras, a empresa intermediária receberá uma comissão de 10% sobre o valor total da compra do café pelo comprador.
+Bem-vindo ao projeto VendasDeCafe! Este projeto tem como objetivo fornecer uma experiência única na compra de café para clientes, sejam eles pessoas físicas ou jurídicas. O sistema oferece a facilidade de adquirir café diretamente de um fornecedor confiável, com a possibilidade de ganhar descontos exclusivos. 
 
-Para realizar a compra, é necessário possuir CPF/CNPJ, nome da empresa e, no caso de pessoa física ou jurídica, informar se possui ou não cartão fidelidade. Empresas que possuem um valor de capital suficiente para realizar a compra, compram uma quantidade maior que 100kg e possuem um cartão fidelidade, poderão adquirir o café com desconto exclusivo de 30% sobre o preço total da compra.
+## Funcionalidades Principais
 
-Ambos os tipos de compradores adquirirão o café diretamente do fornecedor, apenas por meio do sistema de compras, onde cada empresa(referência a um OBJETO vai ter ser estoque e seu proprio capital). A cada compra, o estoque de café do comprador aumentará,enquanto o estoque do fornecedor diminuirá, resultando em um aumento do capital do fornecedor, um aumento significativo no capital do sistema de compras(devida a comissão) e uma diminuição do capital do comprador.
+1. **Cadastro de Compradores**: Para realizar compras, é necessário possuir um CPF/CNPJ e informar o nome da empresa ou se é pessoa física. Você também pode indicar se possui um cartão fidelidade.
 
-Para o desenvolvimento desse projeto, foram utilizados conceitos de programação orientada a objetos, bem como herança, polimorfismo e interface, metodos, atributos e classes e foi desenvolvido em 100% back-end Java. Minha ideia principal é oferecer aos clientes uma maneira fácil e acessível de adquirir café diretamente de um fornecedor confiável, através de uma empresa de sistemas de compras, com a vantagem de bonificações exclusivas para clientes. #java #desenvolvimento 
+2. **Compra de Café**: As empresas que possuem capital suficiente, compram uma quantidade maior que 100kg e possuem um cartão fidelidade, podem adquirir o café com um desconto exclusivo de 30% sobre o preço total da compra.
 
-Agradecimentos:
-https://github.com/LucasBrito162
-Quero deixar meu sincero agradecimento por ter tido a oportunidade de trabalhar junto com você neste projeto. Foi realmente um prazer poder colaborar e aprender ao mesmo tempo, especialmente com a ajuda do curso da Alura e seus excelentes instrutores Paulo Silveira e Jacqueline Oliveira. Sem dúvida, essa experiência enriqueceu muito meu conhecimento e habilidades, e estou grato por ter sido parte desse processo. Espero ter mais oportunidades de colaborar com você no futuro! 
+3. **Capital e Estoque**: Cada empresa (referência a um OBJETO) possui seu próprio estoque e capital. A cada compra, o estoque de café do comprador aumentará, enquanto o estoque do fornecedor diminuirá. Isso resulta em alterações no capital das empresas, bem como no capital do sistema de compras, devido à comissão de 10% sobre o valor total da compra.
 
-Atenciosamente, Rafael Cavalcante de Oliveira.
+## Desenvolvimento
+
+Este projeto foi desenvolvido em 100% back-end Java, utilizando conceitos de programação orientada a objetos. Foram empregados recursos como herança, polimorfismo, interfaces, métodos, atributos e classes para criar uma estrutura sólida.
+
+## Agradecimentos
+
+Gostaria de expressar meus sinceros agradecimentos a [Lucas Brito](https://github.com/LucasBrito162) por sua valiosa contribuição para este projeto. Também quero agradecer à Alura e seus excelentes instrutores, Paulo Silveira e Jacqueline Oliveira, cujo curso foi fundamental para o desenvolvimento deste projeto. Essa colaboração enriqueceu meu conhecimento e habilidades, e estou ansioso para futuras oportunidades de trabalho conjunto!
+
+Obrigado por explorar o projeto VendasDeCafe! Sinta-se à vontade para testá-lo e contribuir para seu desenvolvimento.
+
+[Link para o projeto no GitHub](https://github.com/seuusuario/VendasDeCafe)
